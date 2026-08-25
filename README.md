@@ -1,4 +1,4 @@
-# Parallel Single-Producer, Single-Consumer Queues
+# Lock-Free Single-Producer, Single-Consumer Queues
 
 <img width="359" height="58" alt="Screenshot 2026-08-25 123356" src="https://github.com/user-attachments/assets/c5b24ba6-db68-4727-ad96-7ae5d4de02fd" />
 
